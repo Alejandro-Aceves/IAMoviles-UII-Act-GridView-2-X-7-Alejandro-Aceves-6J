@@ -8,4 +8,5 @@ Hola, podrias ayudarme con un codigo de flutter/dart por favor, sera una pantall
 <img width="389" height="860" alt="image" src="https://github.com/user-attachments/assets/245d6167-606a-4c2c-9f5b-8a9a4144c7ca" />
 
 ## Android
-<img width="528" height="836" alt="image" src="https://github.com/user-attachments/assets/100871f0-0054-4cf1-b307-893ccb0cd087" />
+<img width="418" height="728" alt="image" src="https://github.com/user-attachments/assets/e0484e7f-0cfb-4fd9-9c6c-9465170efd1c" />
+
