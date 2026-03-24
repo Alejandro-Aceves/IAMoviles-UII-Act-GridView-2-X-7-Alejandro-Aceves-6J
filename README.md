@@ -1,16 +1,11 @@
-# myapp
+# Mi Prompt
 
-A new Flutter project.
+Hola, podrias ayudarme con un codigo de flutter/dart por favor, sera una pantalla con un appbar que tenga un texto que diga "Tours", el contenido principal consiste en un gridview de 2 columnas por 7 filas de imagenes, entonces cada cuadricula tendra una imagen con un titulo abajo (El nombre de la ciudad del tour), abajo un subtitulo (El precio) y abajo del subtitulo el numero de estrellas, en total serian 14 cuadriculas, las imagenes puedes cargarlas de la web. El color de fondo sera blanco y el color secundario sera #3cb67b. Por favor
 
-## Getting Started
+## Web
+<img width="389" height="861" alt="image" src="https://github.com/user-attachments/assets/d828cc49-ea8a-433f-ab82-7508ce8bdcd5" />
+<img width="389" height="861" alt="image" src="https://github.com/user-attachments/assets/5fdc337f-a98f-4a77-be5d-8a641d3825c1" />
+<img width="389" height="860" alt="image" src="https://github.com/user-attachments/assets/245d6167-606a-4c2c-9f5b-8a9a4144c7ca" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Android
+<img width="528" height="836" alt="image" src="https://github.com/user-attachments/assets/100871f0-0054-4cf1-b307-893ccb0cd087" />
